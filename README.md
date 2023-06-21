@@ -1,6 +1,12 @@
 # Clean Architecture API
 
-This is an ASP.NET Core 7 application built following the principles of SOLID and Clean Architecture (Onion Architecture).
+This is an ASP.NET Core application built following the principles of SOLID and Clean Architecture (Onion Architecture).
+
+## Project Details
+
+- Project SDK: Microsoft.NET.Sdk.Web
+- Target Framework: net7.0
+
 ## Features
 
 - **SOLID Principles**: The application adheres to SOLID principles, which promote modular, flexible, and testable code.
